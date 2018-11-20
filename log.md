@@ -8,3 +8,11 @@
 
 **Link to work:** Code Pen: https://codepen.io/charae-keow/full/VBMrEz/
 
+### Round 2.
+### Day 1: Nov 20 2018
+
+**Today's Progress**: Nearly finished with the image gallery. What's left is optimize it for mobile devices. 
+
+**Thoughts**: Feel happy to start Round 2. For this round, I plan to continue with freeCodeCamp's curriculum plus other **free** online sources to reinforce my skill (like Algorithm and Data Structure). And I aim contribute more to open sources projects, or at least do my own projects. 
+
+**Link to work** Code Pen: https://codepen.io/charae-keow/full/dQzjbW/
