@@ -1,18 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 1: August 1 2018 
+### Day 1: 1 July 2019
 
-**Today's Progress**: Continue working on the landing page. Finished the hero section but spending too much time on polishing the hero image (it's a pain lol). Looking to work on the "features" section tomorrow.
+**Today's Progress**: Learn Node.js from Javascript Teacher Node book. Tbh I already did some of this before so its' more on revisiting the material back and do correction here and there. Most of the code coded are based on the example shown in the book. 
+Open a few new tabs regarding server-side material (MDN and The Odin Projects). Will read them later.
+**Thoughts:** Node is awesome, though I'm still not comfortable with it yet. So far the example works just fine, so I will just follow the example and JS Teacher's source code for now. Later, I'll look to do a new project from scratch to test my understanding and grow. Btw, promise. I don't quite grasp it just yet so I will read about it more next time. 
 
-**Thoughts:** CSS is a pain in the ass to deal with. Still, I think that I'm doing fine just now. Google sure helps a lot. It's hard but the joy when you finally managed to figure it out is pure delight!
-
-**Link to work:** Code Pen: https://codepen.io/charae-keow/full/VBMrEz/
-
-### Round 2.
-### Day 1: Nov 20 2018
-
-**Today's Progress**: Nearly finished with the image gallery. What's left is optimize it for mobile devices. 
-
-**Thoughts**: Feel happy to start Round 2. For this round, I plan to continue with freeCodeCamp's curriculum plus other **free** online sources to reinforce my skill (like Algorithm and Data Structure). And I aim contribute more to open sources projects, or at least do my own projects. 
-
-**Link to work** Code Pen: https://codepen.io/charae-keow/full/dQzjbW/
+**Link to work:** none
